@@ -1,0 +1,9 @@
+playsound==1.3.0
+plyer==2.0.0
+PyQt5==5.15.6
+fbs==1.0.3
+bump2version==1.0.1
+sortedcontainers==2.4.0
+SQLAlchemy==1.4.32
+appdirs==1.4.4
+
