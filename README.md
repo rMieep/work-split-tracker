@@ -68,24 +68,24 @@ People who want to run the application from source or do not use Windows/Ubuntu 
 ## Usage
 Once the program runs the user can access it throught the system tray. 
 
-![Tray](https://github.com/rMieep/work-split-tracker-private/blob/master/assets/Tray%20_Edited.png)
+![Tray](https://github.com/rMieep/work-split-tracker/blob/master/assets/Tray%20_Edited.png)
 
 The context menu can be opended by right clicking the icon. From the context menu additional windows can be opened.
 
-![Tray Icon Context Menu](https://github.com/rMieep/work-split-tracker-private/blob/master/assets/Tray_Context_Menu.png)
+![Tray Icon Context Menu](https://github.com/rMieep/work-split-tracker/blob/master/assets/Tray_Context_Menu.png)
 
 If the user wants to assign a task to his work session he can open the TimerWindow by clicking on the timer (first menu item).
 
-![Timer Window Work](https://github.com/rMieep/work-split-tracker-private/blob/master/assets/Timer_Window_Work_Edited.png)
-![Timer Window Break](https://github.com/rMieep/work-split-tracker-private/blob/master/assets/Timer_Window_Break_Edited.png)
+![Timer Window Work](https://github.com/rMieep/work-split-tracker/blob/master/assets/Timer_Window_Work_Edited.png)
+![Timer Window Break](https://github.com/rMieep/work-split-tracker/blob/master/assets/Timer_Window_Break_Edited.png)
 
 If the user wants to create new tasks or manage existing ones he can click on the Backlog menu option (fourth menu item)
 
-![Backlog Window](https://github.com/rMieep/work-split-tracker-private/blob/master/assets/Backlog_window_Edited.png)
+![Backlog Window](https://github.com/rMieep/work-split-tracker/blob/master/assets/Backlog_window_Edited.png)
 
 Finnaly, the user can configure the program behavior by clicking the Settings menu option (seventh menu item)
 
-![Settings Window](https://github.com/rMieep/work-split-tracker-private/blob/master/assets/Settings_Window.png)
+![Settings Window](https://github.com/rMieep/work-split-tracker/blob/master/assets/Settings_Window.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
